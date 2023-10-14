@@ -1,1 +1,1 @@
-This is my readme on SQL introduction
+SQL - Introduction
